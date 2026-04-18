@@ -8,7 +8,7 @@ This project presents an end-to-end Power BI dashboard analyzing ride booking da
 
 ## 📊 Dashboard Preview
 
-![Operational Analysis](dashboard-Operational Analysis.jpg)
+![Operational Analysis](dashboard-Operational_Analysis.jpg)
 ![Customer Insights](dashboard-insights.jpg)
 
 ---
