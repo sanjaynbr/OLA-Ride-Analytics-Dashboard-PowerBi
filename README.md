@@ -1,4 +1,4 @@
-# Ola Ride Analytics Dashboard (Power BI)
+# Ola Ride Analytics Dashboard | End-to-End Power BI Project
 
 ## 📊 Overview
 This project analyzes ride booking data to uncover trends in customer behavior, revenue, and service performance.
