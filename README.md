@@ -8,16 +8,16 @@ This project presents an end-to-end Power BI dashboard analyzing ride booking da
 
 ## 📊 Dashboard Preview
 
-![Operational Analysis](dashboard-Operational-Analysis.jpg)
+![Operational Analysis](dashboard-Operational_Analysis.jpg)
 
 ![Customer Insights](dashboard-insights.jpg)
 
 ---
 ## 🛠️ Tech Stack
-SQL → Data cleaning, querying, and transformation
-Power BI → Data modeling & dashboard creation
-Excel / CSV → Raw dataset
-DAX → KPIs and calculated measures
+* SQL → Data cleaning, querying, and transformation
+* Power BI → Data modeling & dashboard creation
+* Excel / CSV → Raw dataset
+* DAX → KPIs and calculated measures
 
 
 
