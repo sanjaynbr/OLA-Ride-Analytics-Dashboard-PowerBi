@@ -26,5 +26,3 @@ This project analyzes ride booking data to uncover trends in customer behavior, 
 (Add screenshot here)
 
 ## 📁 Files
-- ola_dashboard.pbix
-- dataset.csv
