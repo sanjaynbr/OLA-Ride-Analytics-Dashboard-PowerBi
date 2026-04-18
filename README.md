@@ -41,12 +41,12 @@ DAX → KPIs and calculated measures
 ---
 
 ## 📌 Key Features
-📈 Ride Volume Trends – Daily booking patterns
-🚗 Vehicle Type Analysis – Usage and distance distribution
-💰 Revenue Insights – Payment method breakdown
-❌ Cancellation Analysis – Key reasons for ride cancellations
-⭐ Customer & Driver Ratings – Correlation analysis
-📊 Interactive Filters – Date & vehicle-level slicing
+### 📈 Ride Volume Trends – Daily booking patterns
+### 🚗 Vehicle Type Analysis – Usage and distance distribution
+### 💰 Revenue Insights – Payment method breakdown
+### ❌ Cancellation Analysis – Key reasons for ride cancellations
+### ⭐ Customer & Driver Ratings – Correlation analysis
+### 📊 Interactive Filters – Date & vehicle-level slicing
 ---
 
 ## 🛠 Tools & Skills
