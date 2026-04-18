@@ -1,78 +1,64 @@
-# Ola Ride Analytics Dashboard | End-to-End Power BI Project
+📊 Ola Ride Analytics Dashboard (Power BI)
 
-## 📊 Overview
+🚀 Overview
 
-This project presents an end-to-end Power BI dashboard analyzing ride booking data to uncover operational trends, customer behavior, and revenue patterns. The goal is to derive actionable insights for improving service efficiency and customer experience.
+This project analyzes ride booking data to uncover insights into customer behavior, operational performance, and revenue trends. It combines SQL for data extraction & transformation with Power BI for interactive visualization.
+The dashboard helps stakeholders understand ride patterns, payment trends, cancellations, and customer-driver rating relationships.
 
----
+🛠️ Tech Stack
+SQL → Data cleaning, querying, and transformation
+Power BI → Data modeling & dashboard creation
+Excel / CSV → Raw dataset
+DAX → KPIs and calculated measures
 
-## 📊 Dashboard Preview
 
+📌 Key Features
+📈 Ride Volume Trends – Daily booking patterns
+🚗 Vehicle Type Analysis – Usage and distance distribution
+💰 Revenue Insights – Payment method breakdown
+❌ Cancellation Analysis – Key reasons for ride cancellations
+⭐ Customer & Driver Ratings – Correlation analysis
+📊 Interactive Filters – Date & vehicle-level slicing
+
+
+📊 Key Insights
+Most rides are short-distance (<10 km) → strong urban demand
+Cash & UPI dominate payments, card usage is minimal
+A small group of customers contributes a large share of revenue
+Ratings are consistently high (~4+), indicating good service quality
+Weak variation between driver & customer ratings → stable experience
+
+🗂️ Project Structure
+📁 OLA-Ride-Analytics-Dashboard
+│── 📄 Bookings.csv
+│── 📄 Bookings-70000-Rows.xlsx
+│── 📄 Ola_RideAnalytics.pbit
+│── 🖼️ dashboard-Operational Analysis.jpg
+│── 🖼️ dashboard-insights.jpg
+│── 📄 README.md
+
+SQL was used for:
+
+Data cleaning and filtering
+Handling missing values
+Creating derived fields (distance groups, categories)
+Aggregations for analysis
+
+📷 Dashboard Preview
 ![Operational Analysis](dashboard-Operational_Analysis.jpg)
 ![Customer Insights](dashboard-insights.jpg)
 
----
 
-## 🔑 Key Insights
+🎯 Business Impact
+Helps identify high-demand ride segments
+Supports payment strategy optimization
+Highlights customer satisfaction trends
+Enables better operational decision-making
 
-* Majority of rides are short-distance (<10 km), indicating strong urban demand
-* Cash and UPI dominate payment methods, while card usage remains minimal
-* A small group of customers contributes disproportionately to total revenue
-* Customer ratings remain consistently high (~4+) across all vehicle types
-* Positive correlation observed between customer and driver ratings
+🔗 Project Link
+👉 https://github.com/sanjaynbr/OLA-Ride-Analytics-Dashboard-PowerBi
 
----
+👤 Author
 
-## 💡 Business Impact
-
-* Identified high demand for short-distance rides, supporting urban-focused service optimization
-* Highlighted dominant payment methods (Cash & UPI), aiding payment strategy decisions
-* Revealed revenue concentration among a small customer segment, enabling targeted retention strategies
-* Confirmed consistently high ratings, indicating strong service quality across vehicle types
-
----
-
-## 📈 Features
-
-* KPI cards (Total Bookings, Revenue, Customers)
-* Ride distance distribution analysis
-* Customer segmentation insights
-* Payment method breakdown
-* Customer vs Driver rating correlation (scatter plot)
-* Interactive filters (Date & Vehicle Type)
-
----
-
-## 🛠 Tools & Skills
-
-* Power BI
-* Data Modeling
-* DAX (Measures & KPIs)
-* Data Visualization
-* Business Insight Generation
-
----
-
-## 📁 Files Included
-
-* `Ola_RideAnalytics.pbit` – Power BI template file
-* `Bookings.csv` – Dataset used for analysis
-* Dashboard screenshots
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbit` file
-2. Open in Power BI Desktop
-3. Load the dataset when prompted
-4. Explore interactive dashboard insights
-
----
-
-## 📌 Author
-
-**Sanjay P Nambiar**
+Sanjay P Nambiar
 Aspiring Data Analyst
-
----
